@@ -8,3 +8,5 @@
 | :black_medium_square: время, затраченное на ручное тестирование:| **60 минут**|
 | :black_medium_square: время, затраченное на автоматизацию:| **300 минут**|
 | :black_medium_square: Выполнял: | **Подвигин Илья** |
+
+<img src="https://media.tenor.com/93OUVuCIk6MAAAAC/done-and-done-spongebob.gif" width="300" height="200">
